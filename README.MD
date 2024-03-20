@@ -1,0 +1,3 @@
+# Simple exchange rate app in TypeScript
+
+Here's a straightforward web tool designed to facilitate currency conversion using the most recent exchange rates. It leverages the ExchangeRate-API to retrieve conversion rates for a chosen base currency and promptly updates the user interface to showcase the conversion rate upon selecting a target currency. The app comprises HTML components for selecting both base and target currencies, alongside a paragraph element that dynamically exhibits the conversion result. Behind the scenes, the JavaScript code efficiently manages API requests, updates the conversion rates array, and executes currency conversions whenever a user makes a selection.
